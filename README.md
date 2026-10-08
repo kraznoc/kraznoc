@@ -1,7 +1,7 @@
 ###
 
 <p align="center">
-  <img src="https://github-readme-stats-fast.vercel.app/api?username=kraznoc&theme=tokyonight&show_icons=true&hide_border=true&count_private=true&locale=ru" width="5000" />
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=kraznoc&theme=tokyonight&show_icons=true&hide_border=true&count_private=true&locale=ru" width="2100" />
 </p>
 
 ###
