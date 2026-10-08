@@ -3,8 +3,10 @@
 ###
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=kraznoc&color=blueviolet&style=for-the-badge&label=profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=kraznoc&color=blueviolet&style=for-the-badge&label=Views"  />
     <img src="https://skillicons.dev/icons?i=py" height="40" alt="python logo"  />
+  <img width="12" />
+    <img src="https://skillicons.dev/icons?i=vscode" height="40" alt="vscode logo"  />
   <img width="12" />
     <img src="https://skillicons.dev/icons?i=neovim" height="40" alt="neovim logo"  />
   <img width="12" />
