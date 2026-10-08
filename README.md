@@ -1,3 +1,7 @@
+<h1 align="center">🐉 kraznoc </h1>
+
+###
+
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=kraznoc&color=blueviolet&style=for-the-badge&label=Views" />
 </p>
