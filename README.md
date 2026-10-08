@@ -1,13 +1,11 @@
-###
-
 <p align="center">
-  <img src="https://github-readme-stats-fast.vercel.app/api?username=kraznoc&theme=tokyonight&show_icons=true&hide_border=true&count_private=true&locale=ru" width=700" />
+  <img src="https://komarev.com/ghpvc/?username=kraznoc&color=blueviolet&style=for-the-badge&label=Views" />
 </p>
 
 ###
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=kraznoc&color=blueviolet&style=for-the-badge&label=Views" />
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=kraznoc&theme=tokyonight&show_icons=true&hide_border=true&count_private=true&locale=ru" width=700" />
 </p>
 
 ###
