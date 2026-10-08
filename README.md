@@ -7,6 +7,12 @@
 ###
 
 <p align="center">
+  <img src="https://komarev.com/ghpvc/?username=kraznoc&color=blueviolet&style=for-the-badge&label=Views" />
+</p>
+
+###
+
+<p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kraznoc/kraznoc/refs/heads/output/github-contribution-grid-snake-dark.svg" />
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/kraznoc/kraznoc/refs/heads/output/github-contribution-grid-snake.svg" />
